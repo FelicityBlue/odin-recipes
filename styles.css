@@ -21,6 +21,7 @@ h1{
     -webkit-text-fill-color: white;
 }
 img{
+    display:block;
     width: 500;
     height: 300;
     border: 10px solid #fabdca;

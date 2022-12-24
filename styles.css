@@ -1,5 +1,5 @@
 *{
-    display: block;
+    
     padding: 5px;
     text-align: center;
     margin:0 auto;
@@ -16,12 +16,15 @@
     gap: 15px;
     height:fit-content;
  }
+ li{
+    display:block;
+ }
 h1{
     -webkit-text-stroke: 1px #252525;
     -webkit-text-fill-color: white;
 }
 img{
-    display:block;
+    
     width: 500;
     height: 300;
     border: 10px solid #fabdca;
